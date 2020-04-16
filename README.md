@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/achidou1999guebre/7bd2bbfa-8775-4735-99a2-6aa9757c9283/b67d3cab-4cbb-46d2-951e-8825eadf4980/_apis/work/boardbadge/d4ca4805-4234-40cc-b389-256b747680e5)](https://dev.azure.com/achidou1999guebre/7bd2bbfa-8775-4735-99a2-6aa9757c9283/_boards/board/t/b67d3cab-4cbb-46d2-951e-8825eadf4980/Microsoft.RequirementCategory)
 # FBGEMM
 
 ## Linux Build: [![CircleCI](https://circleci.com/gh/pytorch/FBGEMM.svg?style=svg)](https://circleci.com/gh/pytorch/FBGEMM)
